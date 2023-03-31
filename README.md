@@ -1,2 +1,3 @@
-# mds
-Machine Learning for Engineers in MATLAB
+# Machine Learning for Engineers in MATLAB
+
+Content coming soon. See https://apmonitor.com/pds for course content.
