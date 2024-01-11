@@ -4,9 +4,7 @@ Machine learning drives technological advancement by leveraging data to gain exp
 
 This course, "Machine Learning for Engineers", is designed to immerse engineering students in the world of machine learning. It offers a comprehensive overview of both theoretical concepts and practical applications of machine learning in engineering. The course content is tailored to provide an intuitive understanding of machine learning, covering a range of topics from unsupervised to supervised learning methods.
 
-[![View Machine Learning for Engineers Course on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/116500-process-dynamics-and-control-course)
-
-[![Open Machine Learning for Engineers Course in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=APMonitor/mds)
+[![Open Machine Learning for Engineers Course in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=APMonitor/mds) [![View Machine Learning for Engineers Course on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/116500-process-dynamics-and-control-course)
 
 ## Professor
 ![John Hedengren](./images/hedengren.jpg)
