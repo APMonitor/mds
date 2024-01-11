@@ -4,6 +4,17 @@ Machine learning drives technological advancement by leveraging data to gain exp
 
 This course, "Machine Learning for Engineers", is designed to immerse engineering students in the world of machine learning. It offers a comprehensive overview of both theoretical concepts and practical applications of machine learning in engineering. The course content is tailored to provide an intuitive understanding of machine learning, covering a range of topics from unsupervised to supervised learning methods.
 
+[![View Machine Learning for Engineers Course on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/116500-process-dynamics-and-control-course)
+
+[![Open Machine Learning for Engineers Course in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=APMonitor/mds)
+
+## Professor
+![John Hedengren](./images/hedengren.jpg)
+
+[John Hedengren](https://www.linkedin.com/in/hedengren/) leads the [BYU PRISM](https://apm.byu.edu/) group with interests in combining data science, optimization, and automation with current projects in hybrid nuclear energy system design and unmanned aerial vehicle photogrammetry. He earned a doctoral degree at the University of Texas at Austin and worked 5 years with ExxonMobil Chemical prior to joining BYU in 2011.
+
+## Course Overview
+
 Key aspects of the course include:
 
 - **Practical Applications:** Students explore how machine learning is reshaping various industries with a focus on engineering applications.
@@ -97,6 +108,14 @@ Key aspects of the course include:
 ⏱️=Time Series  
 👁️=Computer Vision  
 🎧=Audio
+
+![Github Logo](./images/github.png)[MATLAB](https://github.com/APMonitor/mds) and [Python](https://github.com/APMonitor/pds) Repositories on Github
+
+![Github Logo](./images/apm.png) [Course Web-site](https://apmonitor.com/pds) and [Schedule](https://apmonitor.com/pds/index.php/Main/CourseSchedule)
+
+![YouTube Logo](./images/youtube.png)[Upcoming MathWorks Webinar ... See PDC Course for Related Work)](https://youtu.be/SAjFN8mnFCU)
+
+The materials in this archive are released under the [MIT License](./LICENSE). The financial assistance of MathWorks is gratefully acknowledged with technical assistance of [Aycan Hacioglu](https://www.linkedin.com/in/aycan-hacioglu-2604baa4/), [Jonathon Loftin](https://www.linkedin.com/in/jonathon-loftin-a5b1256a/), [Jianghao Wang](https://www.linkedin.com/in/jianghao-wang-896aa1a4/), [Jacob Burrell](https://www.linkedin.com/in/jacob-burrell/), [Krystian Perez](https://www.linkedin.com/in/krystian-perez-2944b437/), [Sean Last](https://www.linkedin.com/in/sean-last-599102251/), [Spencer Larson](https://www.linkedin.com/in/spencer-larson-950b44264/), [Sion Jung](https://www.linkedin.com/in/sionjung/), [Andrew Crop](https://www.linkedin.com/in/andrew-crop-689b831a6/), [Andrew Fry](https://www.linkedin.com/in/andrew-fry-315648a1/), [Nathan Phillips](https://www.linkedin.com/in/nathan-phillips-5428791b5/), and [Hannah Hanson](https://www.linkedin.com/in/hh5700/).
 
 For more details on the course content and structure, visit [Machine Learning for Engineers](https://apmonitor.com/pds) course page.
 
